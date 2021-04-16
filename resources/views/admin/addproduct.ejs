@@ -1,0 +1,31 @@
+<section class="login flex justify-center pt-24">
+  <div class="w-full max-w-xs">
+<form action = "/admin/add/product" enctype="multipart/form-data"  method="POST">
+    <div class="form-row" style="margin-top:50;" >
+      <div class="mb-4"> 
+        <label class="block text-gray-700 text-sm font-bold mb-2" for="name">Product Name:</label>
+        <input required class="form__field" type="text" class="form-control" placeholder="Name" name="productname">
+      </div>
+      <div class="mb-4"> <label class="block text-gray-700 text-sm font-bold mb-2" for="name"></label> Product Image:<label>
+        <input required class="form__field" type="file" class="form-control" placeholder="Image" name="file">
+      </div>
+      <div class="mb-4"> <label class="block text-gray-700 text-sm font-bold mb-2" for="name"> Product Price: </label><label for=""></label>
+        <input required class="form__field" type="number" class="form-control" placeholder="price" name="productprice">
+      </div>
+      <div class="mb-4"> <label class="block text-gray-700 text-sm font-bold mb-2" for="name"></label>
+        <div class="mb-4"> Product Size:</div><label for=""></label>
+        <input required class="form__field" type="text" class="form-control" placeholder="size" name="productsize">
+      </div>
+      <div class="mb-4"> <label class="block text-gray-700 text-sm font-bold mb-2" for="name"></label>
+        <div class="mb-4">  Product Available: </div><label for=""></label>
+        <input required class="form__field" type="Checkbox" class="form-control" placeholder="Available Yes / No" name="productaval">
+      </div>
+      <div class="mb-4">
+        <button class="btn-primary rounded-full text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">
+          ADD
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+</section>

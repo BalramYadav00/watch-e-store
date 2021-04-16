@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Timex nova",
+  "image": "items/71cyjlcYKdL._UL1200_.jpg",
+  "price": 12000,
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Citizen ecoDrive",
+  "image": "items/81hXdct+rjL._UL1500_.jpg",
+  "price": 6000,
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Titan classic",
+  "image": "items/81680ENujyL._UL1500_.jpg",
+  "price": "3500",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Armani Exchange",
+  "image": "items/91zYFqZY0CL._UL1500_.jpg",
+  "price": "15000",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Rolex cellini",
+  "image": "items/card1.png",
+  "price": "7500",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Casio-Edifice-ED417",
+  "image": "items/Casio-Edifice-ED417.jpg",
+  "price": "4400",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Casio-Enticer-A832",
+  "image": "items/Casio-Enticer-A832.jpg",
+  "price": "5900",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Casio-G-Shock-G346",
+  "image": "items/Casio-G-Shock-G346.jpg",
+  "price": "480",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f69eb53ad6245c213a7d"
+  },
+  "name": "Rolex choce",
+  "image": "items/choce_watch2.png",
+  "price": "9999",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f786b53ad6245c213a7e"
+  },
+  "name": "fastrack tees",
+  "image": "items/fastrack tees.webp",
+  "price": "2600",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f7aeb53ad6245c213a7f"
+  },
+  "name": "Fastrack Black Magic",
+  "image": "items/Fastrack-Black-Magic.jpg",
+  "price": "4800",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f7cbb53ad6245c213a80"
+  },
+  "name": "Fossil Sport",
+  "image": "items/Fossil Sport.webp",
+  "price": "7100",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f7ffb53ad6245c213a81"
+  },
+  "name": "Fossil-Chronograph",
+  "image": "items/Fossil-Chronograph.jpg",
+  "price": "2200",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f817b53ad6245c213a82"
+  },
+  "name": "Fossil Decker",
+  "image": "items/Fossil-Decker-Chronograph.jpg",
+  "price": "3100",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f82db53ad6245c213a83"
+  },
+  "name": "Sonata-Ocean-Series-III",
+  "image": "items/Sonata-Ocean-Series-III.jpg",
+  "price": "4500",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f48f845b53ad6245c213a84"
+  },
+  "name": "Timex-Fashion-EL04",
+  "image": "items/Timex-Fashion-EL04.jpg",
+  "price": "5000",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f4942d0a17a5106e4083de8"
+  },
+  "name": "Titan Ladies NeoIi",
+  "image": "items/Titan Ladies NeoIi.jpg",
+  "price": "3900",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f494392a17a5106e4083de9"
+  },
+  "name": "Titan-Octane-Chronograph",
+  "image": "items/Titan-Octane-Chronograph.jpg",
+  "price": "6700",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f4943cfa17a5106e4083dea"
+  },
+  "name": "Titan-Regalia-Chronograph",
+  "image": "items/Titan-Regalia-Chronograph.jpg",
+  "price": "3500",
+  "available": true
+},{
+  "_id": {
+    "$oid": "5f4943eda17a5106e4083deb"
+  },
+  "name": "us polo",
+  "image": "items/us polo.jpg",
+  "price": "4100",
+  "available": true
+}]
