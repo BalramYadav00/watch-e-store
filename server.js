@@ -6,7 +6,7 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3300;
 // process.env.MONGO_CONNECTION_URL ||
-const dbUrl = 'mongodb+srv://Balram:Balram@cluster0.kec0m.mongodb.net/watch?retryWrites=true&w=majority';
+const dbUrl = 'your mongo url';
 const mongoose = require('mongoose');
 const session = require('express-session'); // Maintaining Cart
 const flash = require('express-flash'); // Session
